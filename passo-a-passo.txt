@@ -1,0 +1,8 @@
+criar asetup com a estrutura das pastas.
+    1 src e o index
+    2 dentro src audio, images, scripts, styles
+    3 dentro do script o main, q no mundo dos jogos é chamado de "engine"
+    4 dentro do style o main e o reset. o reset vai servir para deixar todos os 
+        navegadores pad~roes assim q começar o jogo
+
+linkar tudo para o html desda fontes até css. o js deixa no final do body (É uma boa prática).
