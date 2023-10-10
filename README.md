@@ -1,8 +1,8 @@
-# 🎮 Detona Ralph 🎮
+#  Detona Ralph 🎮
 
-## 🚀 Detona Ralph - Ralph é o vilão do vídeo-game 🚀
+## Detona Ralph - Ralph é o vilão do vídeo-game 🚀
 
-## Clique [aqui](LINK_PARA_O_JOGO) para jogar agora
+## [CLIQUE AQUI](https://viktor-ariel.github.io/detona-ralf/) para jogar agora
 
 ### ℹ️ Sobre o Jogo 
 
