@@ -6,3 +6,6 @@ criar asetup com a estrutura das pastas.
         navegadores pad~roes assim q começar o jogo
 
 linkar tudo para o html desda fontes até css. o js deixa no final do body (É uma boa prática).
+
+conceito de views e values em games, em views vai alterar os coisas visuais em values 
+vai alterar os não visuais.
