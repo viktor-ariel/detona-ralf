@@ -4,6 +4,8 @@
 
 ## [CLIQUE AQUI](https://viktor-ariel.github.io/detona-ralf/) para jogar agora
 
+<img src="6.png" atl="imagem-do-jogo-detona-ralph">
+
 ### ℹ️ Sobre o Jogo 
 
 
